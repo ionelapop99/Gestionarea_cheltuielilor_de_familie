@@ -6,10 +6,13 @@ ziua din lună în care a fost efectuată (între 1 și 28/29/30/31), suma de ba
 tipul (menaj, mâncare, transport, haine, internet, altele). Familia are nevoie de o aplicație cu
 următoarele funcționalități:
 1. adăugarea unei cheltuieli în lista (add, insert)
+
 o ex. adaugă 10 internet - adaugă pentru ziua curentă o cheltuială de 10 RON
 pentru internet
+
 o ex. inserează 25 100 mâncare - inserează pentru ziua 25 a lunii curente o
 cheltuială de 100 RON pentru mâncare
+
 2. modificarea cheltuielilor din listă
 o ex. elimină 15 - elimină toate cheltuielile din ziua 15
 o ex. elimină 2 la 9 - elimină toate cheltuielile pentru zilele 2,3, ..., 9
